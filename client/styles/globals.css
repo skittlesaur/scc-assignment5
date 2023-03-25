@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .drop path {
+        @apply fill-neutral-700;
+    }
+}
